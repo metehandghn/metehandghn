@@ -177,7 +177,7 @@ Storybook-style pages with character illustrations and natural, human-like AI na
 
 <p align="center">
   <a href="https://www.linkedin.com/in/metehan-da%C4%9Fhan-09708a445/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/kodluyoo/"><img src="https://img.shields.io/badge/Instagram-@kodluyoo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/kodluyooo/"><img src="https://img.shields.io/badge/Instagram-@kodluyooo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://github.com/metehandghn"><img src="https://img.shields.io/badge/GitHub-metehandghn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
