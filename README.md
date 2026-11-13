@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=metehandghn&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/metehandghn?style=for-the-badge&logo=github&color=22c55e&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/badge/📍_Antalya,_Türkiye-1e293b?style=for-the-badge" alt="Location" />
   <img src="https://img.shields.io/badge/Open_to_work-Remote-f59e0b?style=for-the-badge" alt="Open to work" />
 </p>
 
@@ -24,7 +23,7 @@
 <tr>
 <td width="58%" valign="top">
 
-I'm **Metehan**, an **Information Systems and Technologies** student and a full stack developer from **Antalya, Türkiye**.
+I'm **Metehan**, an **Information Systems and Technologies** student and a full stack developer.
 
 I like taking an idea all the way from a blank page to a **live product with a real domain** — designing the UI, writing the backend, modelling the database, deploying it and then promoting it. Most of what I build runs on **serverless edge infrastructure** (Cloudflare Workers + D1), so it stays fast and cheap to operate.
 
@@ -42,7 +41,6 @@ Beyond the web, I build **Windows desktop apps** and **browser extensions**, bec
 const metehan = {
   role:      "Full Stack Developer",
   education: "Information Systems & Tech.",
-  location:  "Antalya, Türkiye 🇹🇷",
 
   frontend: ["HTML", "CSS", "JavaScript"],
   backend:  ["Python", "Node.js", "Workers"],
